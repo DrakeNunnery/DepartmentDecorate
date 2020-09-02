@@ -1,1 +1,8 @@
-
+#StudioArt {background-color: orange;}
+#Economics {background-color: powderblue;}
+#Politics {background-color: yellow;}
+#ComputerScience {background-color: darkseagreen;}
+img {border-radius: 50%;}
+#Mathematics {background-image: url("../math.jpg");}
+#Mathematics {color: red}
+#StudioArt {font-family: Apple Chancery, cursive}

@@ -1,1 +1,7 @@
-
+#StudioArt {background-color: darkcyan;}
+#Economics {background-color: aquamarine;}
+#Politics {background-color: cadetblue;}
+#ComputerScience {background-color: darkseagreen;}
+img {border-radius: 50%;}
+#Mathematics {background-image: url("../math.jpg");}
+#Mathematics {color: red}
